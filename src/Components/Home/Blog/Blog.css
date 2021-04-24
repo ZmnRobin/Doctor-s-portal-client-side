@@ -1,0 +1,8 @@
+.blog{
+    margin-top: 100px;
+}
+.below:hover{
+   opacity: 0.5;
+   background-color: #13D1D6;
+   color:white;
+}

@@ -1,0 +1,11 @@
+.sidebar{
+    height: 800px;
+    background-color: #3C4457;
+    padding: 20px;
+    text-decoration: none;
+
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
